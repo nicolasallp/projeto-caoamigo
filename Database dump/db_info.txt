@@ -1,0 +1,1 @@
+Inicie a conexão MySQL no XAMPP, usando o port 3306.
