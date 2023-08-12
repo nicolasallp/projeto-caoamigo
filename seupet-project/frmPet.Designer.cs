@@ -333,7 +333,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmPet";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmPet";
+            this.Text = "Pet | Cão Amigo";
             this.Load += new System.EventHandler(this.frmPet_Load);
             this.guna2Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.btnMini)).EndInit();

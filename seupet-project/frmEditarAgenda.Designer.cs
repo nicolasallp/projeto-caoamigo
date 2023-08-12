@@ -282,7 +282,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmEditarAgenda";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "frmEditarTutor";
+            this.Text = "Editor Tutor | Cão Amigo";
             this.Load += new System.EventHandler(this.frmEditarAgenda_Load);
             ((System.ComponentModel.ISupportInitialize)(this.btnFechar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();

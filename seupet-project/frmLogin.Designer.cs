@@ -228,7 +228,7 @@
             this.MaximumSize = new System.Drawing.Size(734, 461);
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Login | Cão Amigo";
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Multi_KeyPress);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

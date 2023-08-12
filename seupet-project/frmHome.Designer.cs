@@ -208,7 +208,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmHome";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmHome";
+            this.Text = "Áreas | Cão Amigo";
             this.pnlCadastro.ResumeLayout(false);
             this.pnlCadastro.PerformLayout();
             this.pnlServico.ResumeLayout(false);
